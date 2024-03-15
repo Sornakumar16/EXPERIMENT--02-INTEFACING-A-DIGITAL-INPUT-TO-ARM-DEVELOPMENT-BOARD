@@ -160,8 +160,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![Uploading WhatsApp Image 2024-03-08 at 2.38.18 PM.jpeg…]()
-![Uploading WhatsApp Image 2024-03-08 at 2.38.18 PM (1).jpeg…]()
+![WhatsApp Image 2024-03-08 at 2 38 18 PM (2)](https://github.com/Sornakumar16/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/138849327/1940bb12-d152-4176-8745-22574c5d21cb)
+![WhatsApp Image 2024-03-08 at 2 38 18 PM (3)](https://github.com/Sornakumar16/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/138849327/dd713a05-019c-4a3d-8baf-4a7e7383cf90)
 
 
 
